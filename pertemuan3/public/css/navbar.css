@@ -7,6 +7,7 @@ nav {
     justify-content: space-between;
     border-bottom: 1px solid rgb(16, 16, 16);
     background-color: rgb(245, 245, 245);
+    opacity: 80%;
 }
 
 .left {
@@ -41,4 +42,12 @@ nav {
     justify-content: center;
     align-items: center;
     border-radius: 10px;
+}
+
+.image img {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
 }
