@@ -15,8 +15,8 @@
         <div class="right">
             <a href="#">Home</a>
             <a href="/product">Product</a>
-            <a href="">Contact Us</a>
-            <a href="" class="login">Login</a>
+            <a href="/contact-us">Contact Us</a>
+            <a href="/login" class="login">Login</a>
         </div>
     </nav>
 

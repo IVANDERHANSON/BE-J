@@ -8,6 +8,7 @@ nav {
     border-bottom: 1px solid rgb(16, 16, 16);
     background-color: rgb(245, 245, 245);
     opacity: 80%;
+    z-index: 99999;
 }
 
 .left {
