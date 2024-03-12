@@ -1,0 +1,54 @@
+nav {
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(16, 16, 16);
+    background-color: rgb(245, 245, 245);
+    opacity: 80%;
+    z-index: 99999;
+}
+
+.left {
+    margin-left: 80px;
+}
+
+.left img {
+    width: 100px;
+    height: 100px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    margin-right: 80px;
+}
+
+.right a {
+    text-decoration: none;
+    font-family: 'poppins';
+    margin: 30px;
+    color: rgb(12, 12, 12);
+    font-size: 20px;
+}
+
+.right .login {
+    background-color: rgb(12, 12, 12);
+    color: rgb(250, 250, 250);
+    width: 90px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.image img {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
+}

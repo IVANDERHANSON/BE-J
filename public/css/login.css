@@ -1,0 +1,15 @@
+.containerLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(230, 230, 230);
+    padding: 50px;
+}
+
+.containerLogin form {
+    width: 500px;
+}
